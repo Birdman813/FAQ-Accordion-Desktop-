@@ -1,0 +1,26 @@
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    width: 350px;
+}
+.title-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.title {
+    color: #1E1F36;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.subText {
+    color: #787887;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+}
